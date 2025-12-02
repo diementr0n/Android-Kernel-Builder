@@ -3,7 +3,7 @@
       "name": "PrimeKSUn-r8s",
       "repo": "https://github.com/diementr0n/android_kernel_samsung_s20fe",
       "branch": "exynos",
-      "device": "r8s"
+      "device": "r8slte"
     },
     "withKernelSU": true,
     "toolchains": [
