@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "PrimeKSUn-r8s",
+      "repo": "https://github.com/pascua28/android_kernel_samsung_exynos990",
+      "branch": "exynos",
+      "device": "r8s"
     },
     "withKernelSU": true,
     "toolchains": [
