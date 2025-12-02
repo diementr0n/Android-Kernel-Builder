@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "PrimeKSUn-r8s",
-      "repo": "https://github.com/pascua28/android_kernel_samsung_exynos990",
+      "repo": "hhttps://github.com/pascua28/android_kernel_samsung_s20fe",
       "branch": "exynos",
       "device": "r8s"
     },
